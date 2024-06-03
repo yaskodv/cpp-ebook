@@ -2,7 +2,7 @@
 #include <iomanip>
 #include <numeric>
 #include <vector>
-
+//example of code review
 using namespace std;
 
 class UserManager {
